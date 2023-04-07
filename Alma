@@ -1,0 +1,109 @@
+<html>
+<body>
+ 
+<head>
+   <script src="functions.js"></script> 
+<link rel="stylesheet" href="style.css">
+ </head>
+
+<div id="NotAllowedme">
+</style>
+<div id="NotAllowedme">
+
+
+
+
+
+
+
+
+<div id="jd-main">
+ <div id="jd-content-1">
+ <div id="jd-content-2">
+ <div id="jd-content-3">
+ <div id="jd-content-4">
+ <div class="jd-app">
+ <div class="jd-section-home">
+ <h1 class="jd-title">𝑹𝒐𝒂𝒓</h1>
+ <div class="jd-block-g">
+ <div class="jd-box-g">
+ <img src="https://img.xatblog.net/image/f5vkXi4tm63.png" />
+ </div>
+ <div class="jd-box-g">
+ <img src="https://img.xatblog.net/image/HMsevlkek.png" />
+ </div>
+ <div class="jd-box-g">
+ <img src="https://xatimg.com/image/HF8TIltFawaw.png" />
+ </div>
+ <div class="jd-box-g">
+ <img src="https://img.xatblog.net/image/s8sE8fjER.png" />
+ </div>
+ <div class="jd-box-g">
+ <img src="https://img.xatblog.net/image/xcn3RNaKt.png" />
+ </div>
+ </div>
+ </div>
+ <div class="jd-nav">
+ <a class="jd-btn-nav" href="#jd-content-1">Perfil</a>
+ <a class="jd-btn-nav" href="#jd-content-2">video</a>
+ <a class="jd-btn-nav" href="#jd-main">home</a>
+ <a class="jd-btn-nav" href="#jd-content-3">firma</a>
+ <a class="jd-btn-nav" href="#jd-content-4">Reflexión</a>
+ </div>
+ <div class="jd-modal">
+ <div class="page-modal-about">
+ <div class="jd-title-page">
+ <h2>Perfil</h2>
+ </div>
+ <div class="jd-block">
+ <img class="jd-img-about" src="https://img.xatblog.net/image/HMsevlkek.png" />
+ <div class="jd-infor">
+ <h3>.𝑅𝑜𝑎𝑟.</h3>
+ <span>10000333</span>
+ <h4>Bienvenido a mi xatspace</h4>
+ <p><strong>Pensamiento:</strong> Smile your haters are watching<br /><br />
+ <strong>Realidad:</strong> Sweet as sugar hard as ice hurt me once i kill you twice
+ </div>
+ </div>
+ </div>
+ <div class="page-modal-video">
+ <div class="jd-title-page">
+ <h2>Video</h2>
+ </div>
+ <div class="jd-block">
+ <div class="jd-video">
+ <iframe width="728" height="410" src="//www.youtube.com/embed/Ky1dduzoEe0?autoplay=1&showinfo=0&fs=0&fs=0&autohide=0&version=3" frameborder="0">Your browser does not support iframes!</iframe> </div>
+  </div>
+ </div>
+ <div class="page-modal-friend">
+ <div class="jd-title-page">
+ <h2>Firma</h2>
+ </div>
+<div class="jd-block">
+ <div class="jd-video">
+ <img src="https://imagizer.imageshack.com/img923/7831/tppzHm.gif" /> 
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="page-modal-love">
+ <div class="jd-title-page">
+ <h2>Reflexion</h2>
+ </div>
+ <div class="jd-block">
+ <h5>𝑅𝑜𝑎𝑟</h5>
+ <h6>10000333</h6>
+ <p>
+ Being powerful is so much more interesting than being beautiful
+
+ <br />
+ <br />
+ ♕
+ </p>
+ </div>
+ </div>
+ </div>
+ </div></div>
+  
+<html>
+<body>
